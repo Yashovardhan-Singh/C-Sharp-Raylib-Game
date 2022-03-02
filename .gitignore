@@ -1,0 +1,7 @@
+﻿.idea/
+.vs/
+bin/
+obj/
+RGame.csproj
+RGame.sln
+RGame.sln.DotSettings.user
